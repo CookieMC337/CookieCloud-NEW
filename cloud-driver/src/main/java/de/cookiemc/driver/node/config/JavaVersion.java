@@ -9,7 +9,7 @@ import de.cookiemc.driver.networking.protocol.codec.buf.IBufferObject;
  *  => name (e.g. "JAVA_16" or "Java 16" or "16_JAVA" or "My Java 16")
  *  => path (e.g. "user/java/16/bin" [whatever your path to this version might be] )
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.4
  */
 public interface JavaVersion extends IBufferObject {

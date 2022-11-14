@@ -5,7 +5,7 @@ package de.cookiemc.driver.common;
  * from another object of their generic type
  *
  * @param <T> the generic object
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface ICopyableObject<T> {

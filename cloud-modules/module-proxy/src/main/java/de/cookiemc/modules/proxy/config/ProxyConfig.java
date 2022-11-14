@@ -42,7 +42,7 @@ public class ProxyConfig {
 								)),
 								String.join("\n", Arrays.asList(
 										"&8",
-										"&8 &3Twitter &8» &7@CookieCloud    &8┃ &3Developer &8» &7Lystx     &8",
+										"&8 &3Twitter &8» &7@CookieCloud    &8┃ &3Developer &8» &7CookieMC337     &8",
 										"&8 &3Online &8» &7{players.online} &8┃ &3Max &8» &7{players.max} &8",
 										"&8"
 								))

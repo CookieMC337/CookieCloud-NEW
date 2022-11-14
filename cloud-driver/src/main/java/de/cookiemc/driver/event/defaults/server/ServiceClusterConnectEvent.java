@@ -17,7 +17,7 @@ import java.io.IOException;
  * This {@link CloudEvent} signals that a certain {@link de.cookiemc.driver.services.ICloudServer}
  * has connected to the cluster but is not ready to use yet
  *
- * @author Lystx
+ * @author CookieMC337
  * @see ServiceUpdateEvent
  * @see ServiceUnregisterEvent
  * @since SNAPSHOT-1.0

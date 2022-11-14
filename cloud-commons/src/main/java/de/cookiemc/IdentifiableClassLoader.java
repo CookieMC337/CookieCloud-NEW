@@ -9,7 +9,7 @@ import java.util.Collection;
 /**
  * A wrapper class loader to ensure dependency loading is still available in JDK > 8
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.4
  */
 public class IdentifiableClassLoader extends URLClassLoader {

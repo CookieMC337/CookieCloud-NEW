@@ -9,7 +9,7 @@ import org.jetbrains.annotations.Nullable;
  * Describes the template that different {@link IServiceTask}s have to define
  * which data is being copied to certain servers
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.2
  */
 public interface ITemplate extends IBufferObject {

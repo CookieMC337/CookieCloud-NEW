@@ -12,7 +12,7 @@ import javax.annotation.Nullable;
  * @see Triple
  * @see Quadro
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface ValueHolder {

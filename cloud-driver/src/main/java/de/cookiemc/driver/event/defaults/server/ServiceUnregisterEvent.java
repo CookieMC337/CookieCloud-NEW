@@ -21,7 +21,7 @@ import java.io.IOException;
  * got unregistered within the cache of the current Driver Instance
  * and is now ready to work with
  *
- * @author Lystx
+ * @author CookieMC337
  * @see ServiceRegisterEvent
  * @see ServiceUpdateEvent
  * @since SNAPSHOT-1.0

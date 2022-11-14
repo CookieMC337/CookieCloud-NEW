@@ -24,7 +24,7 @@ import java.util.stream.Collectors;
 /**
  * This Implemented BridgePlugin on Spigot-Side
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public class CloudBridgeBukkitPlugin extends JavaPlugin implements IBridgePlugin, IBridgeExtension {

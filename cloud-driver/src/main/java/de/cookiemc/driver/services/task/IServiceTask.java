@@ -23,7 +23,7 @@ import java.util.Collection;
  * that contains default values for every new {@link ICloudServer} that is being started with this "group"
  * for the server itself
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface IServiceTask extends IBufferObject, IPlaceHolderObject, IPropertyObject, ICopyableObject<IServiceTask> {

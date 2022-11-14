@@ -3,8 +3,8 @@
   "description": "Manages the rest api",
   "version": "SNAPSHOT-1.0",
   "main": "de.cookiemc.modules.sign.cloud.ModuleBootstrap",
-  "author": "Lystx",
-  "website": "https://github.com/Lystx/CookieCloudCloud/tree/master/cloud-modules/module-signs",
+  "author": "CookieMC337",
+  "website": "https://github.com/CookieMC337/CookieCloud-NEW/tree/master/cloud-modules/module-signs",
   "copy": "SERVER_FALLBACK",
   "environment": "ALL",
   "depends": []

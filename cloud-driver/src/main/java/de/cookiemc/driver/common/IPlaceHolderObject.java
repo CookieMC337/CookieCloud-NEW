@@ -4,7 +4,7 @@ package de.cookiemc.driver.common;
  * Objects that implement this interface
  * can replace placeholders within texts of their own class
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface IPlaceHolderObject {

@@ -271,7 +271,7 @@ public class NodeDriver extends CloudDriver<INode> {
 
             if (devMode) {
                 this.logger.debug("DevMode is activated!");
-                //in dev mode player "Lystx" has every permission
+                //in dev mode player "CookieMC337" has every permission
                 this.providerRegistry.setProvider(PermissionChecker.class, (playerUniqueId, permission) -> playerUniqueId.toString().equalsIgnoreCase("82e8f5a2-4077-407b-af8b-e8325cad7191"));
             }
 

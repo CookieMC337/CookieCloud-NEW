@@ -15,7 +15,7 @@ import java.io.IOException;
  * The receiver of this {@link Packet} (Only Node makes sense) checks if a server
  * with the provided name of this packet is registered and if so shuts it down
  *
- * @author Lystx
+ * @author CookieMC337
  * @see ServiceForceShutdownPacket
  * @since SNAPSHOT-1.0
  */

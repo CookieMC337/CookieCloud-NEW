@@ -1,4 +1,4 @@
-name: CookieCloudCloud-Bridge
+name: CookieCloud-Bridge
 main: de.cookiemc.bridge.proxy.bungee.CloudBridgeBungeePlugin
 description: Establishes the comunication between cloud and server
 version: SNAPSHOT-1.0

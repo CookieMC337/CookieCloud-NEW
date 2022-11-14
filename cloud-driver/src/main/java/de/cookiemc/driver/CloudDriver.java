@@ -52,7 +52,7 @@ import org.jetbrains.annotations.NotNull;
  * So you see a <b>CloudDriver</b> is the key to everything Code-Related that you want to do concerning CookieCloud
  * <br><br>
  *
- * @author Lystx
+ * @author CookieMC337
  * @see #shutdown()
  * @since SNAPSHOT-1.0
  */

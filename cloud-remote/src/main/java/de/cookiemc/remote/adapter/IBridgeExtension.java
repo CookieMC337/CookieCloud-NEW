@@ -7,7 +7,7 @@ import de.cookiemc.driver.services.IServiceCycleData;
  * and holds the methods a CloudBridgeComponent (Bukkit, Bungee, Velocity etc.)
  * has to be able to execute by default
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.5
  */
 public interface IBridgeExtension {

@@ -49,7 +49,7 @@ public class BungeeConfiguration extends VersionFile {
                 "    restricted: false\n" +
                 "listeners:\n" +
                 "  - query_port: 25577\n" +
-                "    motd: \"&bCookieCloud &7Default Motd &7by Lystx\"\n" +
+                "    motd: \"&bCookieCloud &7Default Motd &7by CookieMC337\"\n" +
                 "    priorities:\n" +
                 "      - " + firstServerName + "\n" +
                 "    bind_local_address: true\n" +

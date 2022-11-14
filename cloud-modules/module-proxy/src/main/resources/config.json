@@ -3,7 +3,7 @@
   "description": "Manages the Proxy servers",
   "version": "SNAPSHOT-1.2",
   "main": "de.cookiemc.modules.proxy.ProxyModule",
-  "author": "Lystx",
+  "author": "CookieMC337",
   "website": "https://github.com/CookieMC337/CookieCloud-NEW/tree/master/cloud-modules/module-proxy",
   "copy": "NONE",
   "environment": "NODE",

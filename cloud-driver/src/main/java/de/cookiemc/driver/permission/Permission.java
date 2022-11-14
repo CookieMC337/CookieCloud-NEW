@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
  *      - the name of permission {@link #getPermission()}<br>
  *      - the time in millis when this permission is removed {@link #getExpirationDate()} (-1 = permanent)<br>
  *<br>
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface Permission extends IBufferObject {

@@ -65,7 +65,7 @@ import java.util.jar.*;
  * The main difference between other driver-implementations is that the {@link Remote}
  * is capable or is even only used to start applications with custom class-loaders etc
  *
- * @author Lystx
+ * @author CookieMC337
  * @see CloudDriver
  * @since SNAPSHOT-1.1
  */

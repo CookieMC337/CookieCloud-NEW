@@ -11,7 +11,7 @@ import java.util.UUID;
  * The {@link INodeConfig} holds all the configuration values that
  * are necessary for an {@link INode} to exist at runtime.
  *
- * @author Lystx
+ * @author CookieMC337
  * @version SNAPSHOT-1.1
  */
 public interface INodeConfig extends IBufferObject {

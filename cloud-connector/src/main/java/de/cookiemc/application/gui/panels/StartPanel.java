@@ -152,7 +152,7 @@ public class StartPanel extends JPanel {
 
     private void updateTable(JTable updateTable) throws Exception {
 
-        InputStream input = new URL("https://raw.githubusercontent.com/Lystx/CookieCloud/master/application.json").openStream();
+        InputStream input = new URL("https://raw.githubusercontent.com/CookieMC337/CookieCloud/master/application.json").openStream();
 
         Document document = DocumentFactory.newJsonDocument(input);
         Bundle updates = document.getBundle("updates");

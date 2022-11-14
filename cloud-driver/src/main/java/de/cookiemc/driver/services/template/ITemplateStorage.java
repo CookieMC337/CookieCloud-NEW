@@ -11,7 +11,7 @@ import java.io.IOException;
  * The {@link ITemplateStorage} manages all kinds of {@link ITemplate}s and performs different template-actions
  * for starting {@link ICloudServer}s but also deploys {@link ICloudServer}s using their {@link IDeployment}
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.2
  */
 public interface ITemplateStorage {

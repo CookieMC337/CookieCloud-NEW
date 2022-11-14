@@ -6,7 +6,7 @@ import de.cookiemc.driver.services.ICloudServer;
  * This class represents an extension of the {@link IBridgeExtension}
  * and extends the Remote-Functions af a Proxy-Server
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.5
  */
 public interface IBridgeProxyExtension extends IBridgeExtension {

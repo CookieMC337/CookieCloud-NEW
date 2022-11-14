@@ -17,7 +17,7 @@ import java.util.Optional;
  * <br><br>
  * You can also add/remove permissions from this entity
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface PermissionEntity extends IBufferObject {

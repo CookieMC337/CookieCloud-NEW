@@ -18,7 +18,7 @@ import java.util.function.Function;
  * @param <S> The type of the second value
  * @param <T> The type of the third value
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.1
  */
 @Getter @Setter

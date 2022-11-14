@@ -11,7 +11,7 @@ import java.util.Optional;
  * that is up-to-date with the one and only cloud-cache that is outgoing from the current Node
  *
  * @param <T> the generic of the object this promise holds
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.5
  */
 public interface ISyncedNetworkPromise<T extends IBufferObject> {

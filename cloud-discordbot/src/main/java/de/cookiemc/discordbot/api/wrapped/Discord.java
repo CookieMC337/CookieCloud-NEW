@@ -9,7 +9,7 @@ import java.util.Collection;
 /**
  * A wrapper for the discord jda to access the features more easily
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface Discord {

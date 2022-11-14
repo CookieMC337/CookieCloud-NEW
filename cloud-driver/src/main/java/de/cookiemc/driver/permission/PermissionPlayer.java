@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  * That is being put all together into a {@link PermissionPlayer} to access
  * this data set and add data to this player and later on save it to the database again
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface PermissionPlayer extends PermissionEntity {

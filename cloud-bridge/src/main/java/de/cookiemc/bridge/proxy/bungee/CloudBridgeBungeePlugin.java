@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 /**
  * This Implemented BridgePlugin on BungeeCord-Side
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.2
  */
 public class CloudBridgeBungeePlugin extends Plugin implements IBridgePlugin, IBridgeProxyExtension {

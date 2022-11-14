@@ -35,7 +35,7 @@ public class DocumentDatabase {
 
         if (standalone) {
 
-            logger.info("CookieCloudDatabase in its current State of Development is presented to you by Lystx...");
+            logger.info("CookieCloudDatabase in its current State of Development is presented to you by CookieMC337...");
 
             logger.log(LogLevel.NULL, "§b                       _                    §f___ _                 _ ");
             logger.log(LogLevel.NULL, "§b           /\\  /\\_   _| |_ ___  _ __ __ _  §f/ __\\ | ___  _   _  __| |");

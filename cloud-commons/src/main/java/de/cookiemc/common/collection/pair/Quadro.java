@@ -19,7 +19,7 @@ import java.util.function.Function;
  * @param <T> The type of the third value
  * @param <FF> The type of the fourth value
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.1
  */
 @Getter

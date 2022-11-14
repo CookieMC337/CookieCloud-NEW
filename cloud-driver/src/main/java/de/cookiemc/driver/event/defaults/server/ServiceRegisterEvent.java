@@ -18,7 +18,7 @@ import java.io.IOException;
  * got registered within the cache of the current Driver Instance
  * and is now ready to work with
  *
- * @author Lystx
+ * @author CookieMC337
  * @see ServiceUpdateEvent
  * @see ServiceUnregisterEvent
  * @since SNAPSHOT-1.0

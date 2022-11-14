@@ -21,7 +21,7 @@ import java.util.stream.Collectors;
  * You can start or stop a certain {@link ICloudServer} and filter for your {@link ICloudServer}
  * or {@link ICloudFallback}
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface ICloudServiceManager {

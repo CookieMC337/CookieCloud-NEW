@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  * From here on, you can add, remove, updateTask and filter all different {@link IServiceTask}s the way
  * you need it.
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.1
  */
 public interface ICloudServiceTaskManager {

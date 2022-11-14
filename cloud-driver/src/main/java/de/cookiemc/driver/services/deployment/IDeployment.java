@@ -11,7 +11,7 @@ import java.util.Collection;
  * A {@link IDeployment} describes the process of copying a {@link ICloudServer} into its {@link ITemplate}
  * With some more settings you can easily copy your temp-server into its template
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.4
  */
 public interface IDeployment extends IBufferObject {

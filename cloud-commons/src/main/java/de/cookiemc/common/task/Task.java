@@ -33,7 +33,7 @@ import java.util.function.Supplier;
  * The immutable changed can be retrieved or change using {@link Task#isImmutable()}
  * and {@link Task#setImmutable(boolean)} at any time
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.2
  */
 public interface Task<T> extends Serializable {

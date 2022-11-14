@@ -12,7 +12,7 @@ import java.util.UUID;
  * This interface represents an empty {@link ICloudServer} that is now being filled with values
  * You can here set port, memory, motd, UUID, etc. and then start it using {@link #start()}
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface IFutureCloudServer {

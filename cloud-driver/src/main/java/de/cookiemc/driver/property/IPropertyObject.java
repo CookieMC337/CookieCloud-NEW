@@ -10,7 +10,7 @@ import javax.annotation.Nullable;
  * And you can access this {@link Document} either raw or through the helper methods
  * such as {@link #getProperty(String, Class)} or {@link #setProperty(String, Object)}
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.2
  */
 public interface IPropertyObject {

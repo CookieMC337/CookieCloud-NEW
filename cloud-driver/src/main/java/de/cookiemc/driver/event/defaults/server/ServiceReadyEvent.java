@@ -19,7 +19,7 @@ import java.io.IOException;
  * This {@link CloudEvent} signals that a certain {@link ICloudServer}
  * is already registered and is now connected and authenticated and ready to use
  *
- * @author Lystx
+ * @author CookieMC337
  * @see ServiceUpdateEvent
  * @see ServiceUnregisterEvent
  * @since SNAPSHOT-1.0

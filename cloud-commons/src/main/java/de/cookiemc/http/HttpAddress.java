@@ -13,7 +13,7 @@ import java.net.URL;
  * The {@link HttpAddress} describes an easy-to-use address for internal Cloud-API-Use
  * It contains the host, and port (as normal addresses like {@link InetSocketAddress} also do)
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.5
  */
 @Getter

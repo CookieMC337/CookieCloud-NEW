@@ -7,7 +7,7 @@ import org.jetbrains.annotations.NotNull;
  * The {@link ICloudFallback} describes different configuration-entries
  * to define where to send you when needing a fallback (e.g. kicked from a sub-server)
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.2
  */
 public interface ICloudFallback extends IBufferObject {

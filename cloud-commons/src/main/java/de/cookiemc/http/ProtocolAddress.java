@@ -16,7 +16,7 @@ import java.net.InetSocketAddress;
  * It contains the host, and port (as normal addresses like {@link InetSocketAddress} also do)
  * and it also contains the option to provide an authKey to authenticate certain objects within the cluster
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 @AllArgsConstructor @Getter @Setter

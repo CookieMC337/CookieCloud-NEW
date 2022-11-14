@@ -4,7 +4,7 @@ package de.cookiemc.driver.services.utils;
  * Different visibilities that can be used in the api (e.g. sign-selector) to check which servers
  * should be visible to other players
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.2
  */
 public enum ServiceVisibility {

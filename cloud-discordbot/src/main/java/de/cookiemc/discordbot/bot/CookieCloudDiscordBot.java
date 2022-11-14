@@ -95,7 +95,7 @@ public class CookieCloudDiscordBot {
                 .build();
 
         this.logger.log(LogLevel.NULL, "§8");
-        this.logger.info("§7Loading §3CookieCloudBot §7by §bLystx§8...");
+        this.logger.info("§7Loading §3CookieCloudBot §7by §bCookieMC337§8...");
         this.logger.info("§7Waiting for GuildStartup§8...");
         //if guild is ready to use
         this.guildReadyTask.onTaskSucess(v -> {

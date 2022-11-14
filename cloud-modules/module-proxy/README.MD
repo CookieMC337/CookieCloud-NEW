@@ -48,7 +48,7 @@ cloud.module.proxy.command.use - for use of command
           "§8§m--------------------------",
           "§8",
           "&bVersion &8» &7SNAPSHOT-1.3",
-          "&bThanks to &8» &7[Lystx]",
+          "&bThanks to &8» &7[CookieMC337]",
           "&bTwitter &8» &7@CookieCloud",
           "&bDiscord &8» &7pazzqaGSVs",
           "§8",
@@ -62,7 +62,7 @@ cloud.module.proxy.command.use - for use of command
     "frames": [
       {
         "header": "&8\n&8        &8» &bCookieCloud &8«        &8\n&8        &3Server &8» &7{service}     &8\n&8        &3Proxy &8» &7{proxy}        &8\n&8",
-        "footer": "&8\n&8 &3Twitter &8» &7@CookieCloud    &8┃ &3Developer &8» &7Lystx     &8\n&8 &3Online &8» &7{players.online} &8┃ &3Max &8» &7{players.max} &8\n&8"
+        "footer": "&8\n&8 &3Twitter &8» &7@CookieCloud    &8┃ &3Developer &8» &7CookieMC337     &8\n&8 &3Online &8» &7{players.online} &8┃ &3Max &8» &7{players.max} &8\n&8"
       }
     ],
     "animationInterval": 1.0

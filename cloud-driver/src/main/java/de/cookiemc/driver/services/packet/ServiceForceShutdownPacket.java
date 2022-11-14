@@ -15,7 +15,7 @@ import java.io.IOException;
  * The receiver of this {@link Packet} checks if the name of its Driver
  * matches the requested "service" name and if it matches will then shut down the server
  *
- * @author Lystx
+ * @author CookieMC337
  * @see ServiceRequestShutdownPacket
  * @since SNAPSHOT-1.0
  */

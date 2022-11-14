@@ -8,7 +8,7 @@ import org.jetbrains.annotations.NotNull;
  * This class represents a Cycled-Data-Entry that cycles through the Cluster for given {@link ICloudServer}s
  * And can contain custom data and the latency of this to detect service timeout in {@link ICloudServer#isTimedOut()}
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface IServiceCycleData extends IBufferObject {

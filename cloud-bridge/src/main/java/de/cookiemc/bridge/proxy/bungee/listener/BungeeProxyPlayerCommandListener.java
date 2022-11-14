@@ -11,7 +11,7 @@ import net.md_5.bungee.event.EventHandler;
  * This listener listens for Chat-Input on Proxy-Side
  * and checks if the input matches any registered Cloud-Sided-Command
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.5
  */
 @Data

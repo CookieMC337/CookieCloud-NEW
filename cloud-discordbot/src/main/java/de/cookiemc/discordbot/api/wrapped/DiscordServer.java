@@ -16,7 +16,7 @@ import java.util.Collection;
  * easy to use than the official api
  *
  * @see Discord
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface DiscordServer {

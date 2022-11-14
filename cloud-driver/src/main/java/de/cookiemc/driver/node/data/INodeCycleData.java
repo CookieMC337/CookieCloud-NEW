@@ -8,7 +8,7 @@ import de.cookiemc.driver.node.INode;
  * caught of an {@link INode} process.
  * It contains mostly statistical values like memory, startup, etc.
  *
- * @author Lystx
+ * @author CookieMC337
  * @version SNAPSHOT-1.1
  */
 public interface INodeCycleData extends IBufferObject {

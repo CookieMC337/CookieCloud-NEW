@@ -16,7 +16,7 @@ import java.util.Collection;
  * that every child-task copies and forwards them to the {@link ICloudServer}s
  * that those tasks start
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.4
  */
 public interface ITaskGroup extends IBufferObject {

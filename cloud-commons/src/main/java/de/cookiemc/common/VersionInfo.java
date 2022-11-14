@@ -96,7 +96,7 @@ public class VersionInfo {
                 return new VersionInfo(Type.UNKNOWN, 0.1);
             }
             try {
-                Document document = DocumentFactory.newJsonDocumentByURL("https://raw.githubusercontent.com/Lystx/CookieCloud/master/application.json");
+                Document document = DocumentFactory.newJsonDocumentByURL("https://raw.githubusercontent.com/CookieMC337/CookieCloud-NEW/master/application.json");
 
                 String versionString = document.get("version").toString();
                 return (NEWEST_VERSION = fromString(versionString));

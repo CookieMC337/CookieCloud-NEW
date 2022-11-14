@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
  * Here you can manage certain {@link PermissionGroup}s, {@link PermissionPlayer}s & {@link Permission}s<br>
  * You can delete and save groups and more.
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface PermissionManager extends PermissionChecker {

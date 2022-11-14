@@ -29,7 +29,7 @@ import java.util.function.Consumer;
  * An interface to define plugins (bungee, velocity, spigot etc)
  * With override methods that every plugin instance needs
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 public interface IBridgePlugin {

@@ -17,7 +17,7 @@ import java.text.SimpleDateFormat;
  * This listener listens for Chat-Input on Spigot-Side
  * and checks if the input matches any registered Cloud-Sided-Command
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.3
  */
 @Data

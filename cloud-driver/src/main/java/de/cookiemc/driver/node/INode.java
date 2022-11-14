@@ -17,7 +17,7 @@ import java.util.Collection;
  * start a certain {@link ICloudServer}, stop a certain {@link ICloudServer}
  * or even shutdown the node or directly message them
  *
- * @author Lystx
+ * @author CookieMC337
  * @version SNAPSHOT-1.1
  */
 public interface INode extends IClusterObject<INode>, INetworkExecutor {

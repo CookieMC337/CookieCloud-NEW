@@ -18,7 +18,7 @@ import java.io.IOException;
  * This {@link CloudEvent} signals that a certain {@link ICloudServer}
  * got updated within the cache of the current Driver Instance
  *
- * @author Lystx
+ * @author CookieMC337
  * @see ServiceRegisterEvent
  * @see ServiceUnregisterEvent
  * @since SNAPSHOT-1.0

@@ -26,7 +26,7 @@ import java.util.function.Consumer;
  * But you can also modify the {@link ServiceState} ({@link #setServiceState(ServiceState)})
  * or many other values that you can customize on your own
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface ICloudServer extends IClusterObject<ICloudServer>, NetworkComponent, IPacketExecutor, ModifiableUUIDHolder {

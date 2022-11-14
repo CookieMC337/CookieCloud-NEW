@@ -17,7 +17,7 @@ import java.util.function.Function;
  *
  * @param <F> The type of the value
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.1
  */
 @Getter

@@ -3,8 +3,8 @@
   "description": "Adds a hub-command to the network",
   "version": "SNAPSHOT-1.1",
   "main": "de.cookiemc.modules.hubcommand.HubCommandModule",
-  "author": "Lystx",
-  "website": "https://github.com/Lystx/CookieCloudCloud/tree/master/cloud-modules/module-hubcommand",
+  "author": "CookieMC337",
+  "website": "https://github.com/CookieMC337/CookieCloud-NEW/tree/master/cloud-modules/module-hubcommand",
   "copy": "NONE",
   "environment": "NODE",
   "depends": []

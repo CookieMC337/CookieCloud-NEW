@@ -10,7 +10,7 @@ import java.io.IOException;
  * {@link PacketBuffer#writeObject(IBufferObject)} and {@link PacketBuffer#readObject(Class)}.
  * An implementation of {@link IBufferObject} must have an empty constructor (may not be {@code private}!)
  *
- * @author Lystx
+ * @author CookieMC337
  * @since SNAPSHOT-1.0
  */
 public interface IBufferObject {
