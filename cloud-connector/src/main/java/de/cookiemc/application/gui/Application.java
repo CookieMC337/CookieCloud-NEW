@@ -67,7 +67,7 @@ public class Application extends JFrame {
         updateFontMenuItems();
         controlBar.initialize(this, tabbedPane);
 
-        setIconImages(FlatSVGUtils.createWindowIconImages("/de/cookiemc/img/CookieCloudCloud.svg"));
+        setIconImages(FlatSVGUtils.createWindowIconImages("/de/cookiemc/img/CookieCloud.svg"));
 
         int tabIndex = ApplicationData.getCurrent().getLastOpenedTab();
 
@@ -88,10 +88,10 @@ public class Application extends JFrame {
     }
 
     private void showAboutScreen() {
-        JLabel titleLabel = new JLabel("CookieCloudCloud Connector Application");
+        JLabel titleLabel = new JLabel("CookieCloud Connector Application");
         titleLabel.putClientProperty(FlatClientProperties.STYLE_CLASS, "h1");
 
-        String link = "https://github.com/Lystx/CookieCloudCloud";
+        String link = "https://github.com/CookieMC337/CookieCloud-NEW";
         JLabel linkLabel = new JLabel("<html><a href=\"#\">" + link + "</a></html>");
         linkLabel.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
         linkLabel.addMouseListener(new MouseAdapter() {
@@ -109,9 +109,9 @@ public class Application extends JFrame {
         JOptionPane.showMessageDialog(this,
                 new Object[]{
                         titleLabel,
-                        "An easy-to-use interface for your CookieCloudCloud-Node",
+                        "An easy-to-use interface for your CookieCloud-Node",
                         " ",
-                        "Copyright 2022-" + Year.now() + " CookieCloudCloud",
+                        "Copyright 2022-" + Year.now() + " CookieCloud",
                         linkLabel,
                 },
                 "Info", JOptionPane.PLAIN_MESSAGE);
@@ -274,7 +274,7 @@ public class Application extends JFrame {
         controlBar = new FramedFooter();
 
         //======== this ========
-        setTitle("CookieCloudCloud | Application");
+        setTitle("CookieCloud | Application");
         setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         Container contentPane = getContentPane();
         contentPane.setLayout(new BorderLayout());
@@ -413,7 +413,7 @@ public class Application extends JFrame {
                 discordItem.setText("Discord");
                 discordItem.setMnemonic('D');
                 discordItem.addActionListener(e -> {
-                    String link = "https://discord.gg/pazzqaGSVs";
+                    String link = "https://discord.gg/";
                     try {
                         Desktop.getDesktop().browse(new URI(link));
                     } catch (IOException | URISyntaxException ex) {
@@ -474,7 +474,7 @@ public class Application extends JFrame {
         usersButton.setIcon(new FlatSVGIcon("de/cookiemc/img/users.svg"));
         usersButton.setButtonType(ButtonType.toolBarButton);
         usersButton.setFocusable(false);
-        usersButton.addActionListener(e -> JOptionPane.showMessageDialog(null, "Account managing is coming soon!", "CookieCloudCloud | Login", JOptionPane.INFORMATION_MESSAGE));
+        usersButton.addActionListener(e -> JOptionPane.showMessageDialog(null, "Account managing is coming soon!", "CookieCloud | Login", JOptionPane.INFORMATION_MESSAGE));
         menuBar1.add(Box.createGlue());
         menuBar1.add(usersButton);
 

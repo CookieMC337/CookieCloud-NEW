@@ -54,7 +54,7 @@ public class Bootstrap {
             Task.runAsync(() -> {
                 try {
                     GitHub github = GitHubBuilder.fromEnvironment().newInstance();
-                    GHRepository repository = github.getRepository("Lystx/CookieCloudCloud");
+                    GHRepository repository = github.getRepository("Lystx/CookieCloud");
                     Collection<GHCommit> cachedCommits = repository.listCommits().toList();
                     CloudDriver.retrieveFromStorage().getEventManager().callEventGlobally(new CommitHistoryLoadedEvent(cachedCommits));
                     CloudDriver.retrieveFromStorage().getLogger().info("Loaded GitHub data");

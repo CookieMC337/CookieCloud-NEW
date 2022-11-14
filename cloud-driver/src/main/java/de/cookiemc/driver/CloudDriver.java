@@ -42,14 +42,14 @@ import org.jetbrains.annotations.NotNull;
 
 
 /**
- * The <b>CloudDriver</b> is the core of the API of CookieCloudCloud.
+ * The <b>CloudDriver</b> is the core of the API of CookieCloud.
  * It allows the System internally and developers to make use of every Manager across the Network
  * For example you can get information about a specific {@link ICloudPlayer}, a specific {@link ICloudServer},
  * a specific {@link IServiceTask}, a specific {@link ITaskGroup}. <br>
  * Or you could manage the {@link HttpServer} and create {@link HttpRequest} as you'd like to. <br>
  * Or you could manage all the different connected {@link INode}s and tell them to start or stop a certain Server
  * <br><br>
- * So you see a <b>CloudDriver</b> is the key to everything Code-Related that you want to do concerning CookieCloudCloud
+ * So you see a <b>CloudDriver</b> is the key to everything Code-Related that you want to do concerning CookieCloud
  * <br><br>
  *
  * @author Lystx

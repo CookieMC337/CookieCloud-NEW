@@ -147,7 +147,7 @@ public class FramedFooter extends JPanel {
 
     private void updateInfoLabel() {
         VersionInfo version = VersionInfo.getCurrentVersion();
-        infoLabel.setText("CookieCloudCloud Version: " + version.toString());
+        infoLabel.setText("CookieCloud Version: " + version.toString());
     }
 
     private void registerSwitchToLookAndFeel(int keyCode, String lafClassName) {

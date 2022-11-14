@@ -127,7 +127,7 @@
 
 
     <build>
-        <finalName>CookieCloudCloud-${pom.version}</finalName>
+        <finalName>CookieCloud-${pom.version}</finalName>
 
         <pluginManagement>
             <plugins>

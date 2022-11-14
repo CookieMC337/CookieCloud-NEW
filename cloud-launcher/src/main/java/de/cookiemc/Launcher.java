@@ -171,9 +171,9 @@ public class Launcher extends DriverUtility {
             logger.info("Checking for Updates...");
             if (!version.isUpToDate() || LAUNCHER_VERSIONS.toFile().listFiles().length == 0) {
                 logger.info("Version (" + version + ") is outdated or your cloud.jar is not existing at all!");
-                logger.info("==> Downloading latest CookieCloudCloud version...");
+                logger.info("==> Downloading latest CookieCloud version...");
 
-                Path zippedFile = LAUNCHER_DIR.resolve("CookieCloudCloud.zip");
+                Path zippedFile = LAUNCHER_DIR.resolve("CookieCloud.zip");
                 DriverUtility.downloadVersion(getNewestVersionDownloadUrl(), zippedFile).onTaskSucess(v -> {
                     logger.info("Downloaded latest RELEASE!");
                     logger.info("Unzipping...");
@@ -184,7 +184,7 @@ public class Launcher extends DriverUtility {
                         Path cloudInFile = Paths.get("unzipped/cloud.jar");
                         Files.copy(cloudInFile, LAUNCHER_VERSIONS.resolve(VersionInfo.getNewestVersion().formatCloudJarName()));
                         FileUtils.delete(Paths.get("unzipped"));
-                        logger.info("Unzipped and moved CookieCloudCloud-Jar to its folder!");
+                        logger.info("Unzipped and moved CookieCloud-Jar to its folder!");
 
                         try {
                             Thread.sleep(1500);

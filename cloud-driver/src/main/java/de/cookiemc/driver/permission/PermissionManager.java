@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 
 /**
- * The <b>PermissionManager</b> is our way of managing permissions at CookieCloudCloud.
+ * The <b>PermissionManager</b> is our way of managing permissions at CookieCloud.
  * Here you can manage certain {@link PermissionGroup}s, {@link PermissionPlayer}s & {@link Permission}s<br>
  * You can delete and save groups and more.
  *

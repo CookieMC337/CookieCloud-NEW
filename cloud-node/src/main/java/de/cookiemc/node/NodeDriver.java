@@ -621,8 +621,8 @@ public class NodeDriver extends CloudDriver<INode> {
                     DefaultTaskGroup proxyGroup = new DefaultTaskGroup("Proxy", SpecificDriverEnvironment.PROXY, ServiceShutdownBehaviour.DELETE, args, new ArrayList<>(), Collections.singleton(new CloudTemplate("Proxy", "default", "local", true)));
                     DefaultTaskGroup lobbyGroup = new DefaultTaskGroup("Lobby", SpecificDriverEnvironment.MINECRAFT, ServiceShutdownBehaviour.DELETE, args, new ArrayList<>(), Collections.singleton(new CloudTemplate("Lobby", "default", "local", true)));
 
-                    IServiceTask proxyTask = new UniversalServiceTask("Proxy", proxyGroup.getName(), Collections.singletonList(config.getNodeConfig().getNodeName()), "Default CookieCloudCloud Service", "", 1024, 250, 1, -1, 0, true, -1, new SimpleFallback(false, "", 0), ServiceVersion.BUNGEECORD, new ArrayList<>());
-                    IServiceTask lobbyTask = new UniversalServiceTask("Lobby", lobbyGroup.getName(), Collections.singletonList(config.getNodeConfig().getNodeName()), "Default CookieCloudCloud Service", "", 512, 50, 1, -1, 1, true, -1, new SimpleFallback(true, "", 1), ServiceVersion.SPIGOT_1_8_8, new ArrayList<>());
+                    IServiceTask proxyTask = new UniversalServiceTask("Proxy", proxyGroup.getName(), Collections.singletonList(config.getNodeConfig().getNodeName()), "Default CookieCloud Service", "", 1024, 250, 1, -1, 0, true, -1, new SimpleFallback(false, "", 0), ServiceVersion.BUNGEECORD, new ArrayList<>());
+                    IServiceTask lobbyTask = new UniversalServiceTask("Lobby", lobbyGroup.getName(), Collections.singletonList(config.getNodeConfig().getNodeName()), "Default CookieCloud Service", "", 512, 50, 1, -1, 1, true, -1, new SimpleFallback(true, "", 1), ServiceVersion.SPIGOT_1_8_8, new ArrayList<>());
                     lobbyTask.setProperty("gameServer", true);
 
                     proxyTask.setProperty("onlineMode", true);
@@ -802,7 +802,7 @@ public class NodeDriver extends CloudDriver<INode> {
     public String getBaseUrl() {
         VersionInfo newestVersion = VersionInfo.getNewestVersion();
 
-        String urlString = "https://github.com/CookieMC337/CookieCloud/releases/download/v{version}";
+        String urlString = "https://github.com/CookieMC337/CookieCloud-NEW/releases/download/v{version}";
         urlString = urlString.replace("{version}", String.valueOf(newestVersion.getVersion()));
         urlString = urlString.replace("{type}", String.valueOf(newestVersion.getType()));
 

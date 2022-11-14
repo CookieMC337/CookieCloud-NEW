@@ -88,7 +88,7 @@ public class SimpleDiscordServer implements DiscordServer {
                 c.sendMessage(
                         MessageCreateData.fromEmbeds(
                                 new EmbedBuilder()
-                                        .setTitle("CookieCloudCloud | Channel-Start")
+                                        .setTitle("CookieCloud | Channel-Start")
                                         .setColor(Color.CYAN)
                                         .setDescription(
                                                 "This is the beginning of the conversation in this channel"

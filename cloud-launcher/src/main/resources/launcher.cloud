@@ -1,6 +1,6 @@
 
 /*
-This is the CookieCloudCloud launcher config.
+This is the CookieCloud launcher config.
 Use '#' to make a comment
 */
 
@@ -9,9 +9,9 @@ var de.cookiemc.launcher.devmode = false
 
 var de.cookiemc.launcher.autoupdater = true
 var de.cookiemc.launcher.module.autoupdater = true
-var de.cookiemc.launcher.application.file = https://raw.githubusercontent.com/Lystx/CookieCloudCloud/master/application.json
-var de.cookiemc.launcher.updater.baseUrl = https://github.com/Lystx/CookieCloudCloud/releases/download/v{version}
-var de.cookiemc.launcher.updater.url = {cloud.baseUrl}/CookieCloudCloud-{type}-{version}.zip
+var de.cookiemc.launcher.application.file = https://raw.githubusercontent.com/Lystx/CookieCloud/master/application.json
+var de.cookiemc.launcher.updater.baseUrl = https://github.com/CookieMC337/CookieCloud-NEW/releases/download/v{version}
+var de.cookiemc.launcher.updater.url = {cloud.baseUrl}/CookieCloud-{type}-{version}.zip
 var de.cookiemc.launcher.customVersion = null
 
 

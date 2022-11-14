@@ -40,7 +40,7 @@ public class RuleService implements IBotService {
         textChannel.sendMessage(
                 MessageCreateData.fromEmbeds(
                         new EmbedBuilder()
-                                .setTitle("CookieCloudCloud | Rules")
+                                .setTitle("CookieCloud | Rules")
                                 .setDescription(
                                         "These rules can always be changed by an administrator.\n" +
                                                 "\n" +
@@ -55,7 +55,7 @@ public class RuleService implements IBotService {
                                                 "- If two or more parties are arguing, please switch to direct messages because that's not something the public has to see\n" +
                                                 "\n" +
                                                 "§4 Advertising\n" +
-                                                "- Advertising is only allowed, when the thing you're advertising is related to CookieCloudCloud\n" +
+                                                "- Advertising is only allowed, when the thing you're advertising is related to CookieCloud\n" +
                                                 "\n" +
                                                 "§5 Private information\n" +
                                                 "- Phone numbers, addresses, passwords, etc. should not be shared on this discord server\n" +

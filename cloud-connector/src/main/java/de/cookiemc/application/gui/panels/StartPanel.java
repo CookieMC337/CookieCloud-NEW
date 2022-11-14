@@ -53,7 +53,7 @@ public class StartPanel extends JPanel {
         setLayout(null);
 
         JLabel boxLabel = new JLabel("Dashboard");
-        boxLabel.setIcon(new FlatSVGIcon("de/cookiemc/img/CookieCloudCloud.svg", 20, 20));
+        boxLabel.setIcon(new FlatSVGIcon("de/cookiemc/img/CookieCloud.svg", 20, 20));
         boxLabel.setBounds(400, -10, 300, 100);
         boxLabel.setFont(new Font("Arial", Font.PLAIN, 30));
 
@@ -152,7 +152,7 @@ public class StartPanel extends JPanel {
 
     private void updateTable(JTable updateTable) throws Exception {
 
-        InputStream input = new URL("https://raw.githubusercontent.com/Lystx/CookieCloudCloud/master/application.json").openStream();
+        InputStream input = new URL("https://raw.githubusercontent.com/Lystx/CookieCloud/master/application.json").openStream();
 
         Document document = DocumentFactory.newJsonDocument(input);
         Bundle updates = document.getBundle("updates");

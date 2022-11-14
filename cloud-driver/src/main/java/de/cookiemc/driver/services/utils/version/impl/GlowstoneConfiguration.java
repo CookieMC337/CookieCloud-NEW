@@ -26,7 +26,7 @@ public class GlowstoneConfiguration extends VersionFile {
                 "  online-mode: " + false + "\n" +
                 "  max-players: " + ICloudServer.getTask().getDefaultMaxPlayers() + "\n" +
                 "  whitelisted: false\n" +
-                "  motd: 'CookieCloudCloud Minecraft Service'\n" +
+                "  motd: 'CookieCloud Minecraft Service'\n" +
                 "  shutdown-message: Server shutting down..\n" +
                 "  allow-client-mods: true\n" +
                 "  snooper-enabled: false\n" +

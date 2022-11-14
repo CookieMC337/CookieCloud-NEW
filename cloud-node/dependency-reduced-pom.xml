@@ -9,7 +9,7 @@
   <artifactId>cloud-node</artifactId>
   <version>SNAPSHOT-1.5</version>
   <build>
-    <finalName>CookieCloudCloud-${pom.version}</finalName>
+    <finalName>CookieCloud-${pom.version}</finalName>
     <pluginManagement>
       <plugins>
         <plugin>

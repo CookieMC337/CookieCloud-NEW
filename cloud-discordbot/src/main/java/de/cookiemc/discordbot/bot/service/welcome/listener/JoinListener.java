@@ -41,7 +41,7 @@ public class JoinListener implements DiscordListener<GuildMemberJoinEvent> {
         textChannelById.sendMessage(
                 MessageCreateData.fromEmbeds(
                         new EmbedBuilder()
-                                .setTitle("CookieCloudCloud | Welcome")
+                                .setTitle("CookieCloud | Welcome")
                                 .setColor(Color.CYAN)
                                 .setDescription(member.getUser().getAsMention() + " has joined the Discord!" +
                                         "\nPlease read our rules in " + rulesChannel.getAsMention() + "!")

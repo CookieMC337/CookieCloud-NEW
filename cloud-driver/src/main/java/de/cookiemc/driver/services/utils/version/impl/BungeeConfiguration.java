@@ -22,7 +22,7 @@ public class BungeeConfiguration extends VersionFile {
         ICloudServer firstService = services.isEmpty() ? null : services.get(0);
 
         String firstServerName = firstService == null ? "fallback": firstService.getName();
-        String firstServerMotd = firstService == null ? "Default CookieCloudCloud Fallback" : firstService.getPingProperties().getMotd();
+        String firstServerMotd = firstService == null ? "Default CookieCloud Fallback" : firstService.getPingProperties().getMotd();
         int firstServerPort = firstService == null ? 50000 : firstService.getPort();
 
         writer.write("player_limit: " + ICloudServer.getMaxPlayers() + "\n" +
@@ -49,7 +49,7 @@ public class BungeeConfiguration extends VersionFile {
                 "    restricted: false\n" +
                 "listeners:\n" +
                 "  - query_port: 25577\n" +
-                "    motd: \"&bCookieCloudCloud &7Default Motd &7by Lystx\"\n" +
+                "    motd: \"&bCookieCloud &7Default Motd &7by Lystx\"\n" +
                 "    priorities:\n" +
                 "      - " + firstServerName + "\n" +
                 "    bind_local_address: true\n" +

@@ -1,6 +1,6 @@
 ### Modules
 
-CookieCloudCloud is a modular system that you can adjust by just adding or removing
+CookieCloud is a modular system that you can adjust by just adding or removing
 certain modules that you (don't) like.<br>
 To learn more about the certain modules click on their page.
 

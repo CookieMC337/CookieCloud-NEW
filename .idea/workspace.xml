@@ -4,47 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63dc1d41-cdf4-4101-80c8-0ae4ec6f0b68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+    <list default="true" id="63dc1d41-cdf4-4101-80c8-0ae4ec6f0b68" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/bukkit/listener/BukkitPlayerCommandListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/bukkit/listener/BukkitPlayerCommandListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/classes/de/cookiemc/bridge/bukkit/listener/BukkitPlayerCommandListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/target/classes/de/cookiemc/bridge/bukkit/listener/BukkitPlayerCommandListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/original-plugin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/target/original-plugin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/plugin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/target/plugin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-discordbot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-discordbot/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/bot/service/command/impl/MemeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/bot/service/command/impl/MemeCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-discordbot/target/classes/de/cookiemc/discordbot/bot/service/command/impl/MemeCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-discordbot/target/classes/de/cookiemc/discordbot/bot/service/command/impl/MemeCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/target/original-driver.jar.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/target/original-driver.jar.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-connector/src/main/java/de/cookiemc/application/gui/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/src/main/java/de/cookiemc/application/gui/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-launcher/src/main/resources/launcher.cloud" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-launcher/src/main/resources/launcher.cloud" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/target/classes/launcher.cloud" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-launcher/target/classes/launcher.cloud" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/target/launcher.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-launcher/target/launcher.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/target/original-launcher.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-launcher/target/original-launcher.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/target/original-module-proxy-SNAPSHOT-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-proxy/target/original-module-proxy-SNAPSHOT-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/NodeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/NodeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/bootstrap/CloudBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/bootstrap/CloudBootstrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/commands/impl/PlayerCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/commands/impl/PlayerCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/commands/impl/TaskCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/commands/impl/TaskCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/console/jline3/JLine3Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/console/jline3/JLine3Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/module/ModuleDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/module/ModuleDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/service/helper/NodeServiceQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/service/helper/NodeServiceQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/plugin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/plugin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/remote.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/remote.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/resources/node.sc" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/resources/node.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/CookieCloudCloud-SNAPSHOT-1.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/CookieCloudCloud-SNAPSHOT-1.5.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/NodeDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/NodeDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/CloudBootstrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/CloudBootstrap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/commands/impl/PlayerCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/commands/impl/PlayerCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/commands/impl/TaskCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/commands/impl/TaskCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/jline3/JLine3Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/jline3/JLine3Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/module/ModuleDownloader.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/module/ModuleDownloader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/helper/NodeServiceQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/helper/NodeServiceQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/impl/plugin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/impl/plugin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/impl/remote.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/impl/remote.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/node.sc" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/node.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/original-CookieCloudCloud-SNAPSHOT-1.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/original-CookieCloudCloud-SNAPSHOT-1.5.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-remote/target/original-remote.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-remote/target/original-remote.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-modules/module-hubcommand/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-hubcommand/src/main/resources/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-modules/module-notify/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-notify/src/main/resources/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-proxy/src/main/resources/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-modules/module-rest/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-rest/src/main/resources/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-modules/module-signs/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-signs/src/main/resources/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeDependencyCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeDependencyCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeRepositoryCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeRepositoryCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/cache/NodeSyncedNetworkPromise.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/cache/NodeSyncedNetworkPromise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/NodeScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/NodeScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/database/DefaultDatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/database/DefaultDatabaseManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/module/DefaultModuleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/module/DefaultModuleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/BaseNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/BaseNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeBasedClusterExecutor$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeBasedClusterExecutor$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeNodeManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeNodeManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/player/NodePlayerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/player/NodePlayerManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceTaskManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceTaskManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/template/LocalTemplateStorage.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/template/LocalTemplateStorage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +38,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -140,8 +129,16 @@
       <option name="presentableId" value="Default" />
       <updated>1668443462392</updated>
       <workItem from="1668443464563" duration="9445000" />
-      <workItem from="1668456226799" duration="2387000" />
+      <workItem from="1668456226799" duration="3013000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1668459312738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668459312738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,5 +154,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
