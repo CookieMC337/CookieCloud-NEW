@@ -1,0 +1,11 @@
+{
+  "name": "module-perms",
+  "description": "Implementation for integrated Permissions-System",
+  "version": "SNAPSHOT-1.2",
+  "main": "de.cookiemc.modules.perms.PermsModule",
+  "author": "Lystx",
+  "website": "https://github.com/Lystx/CookieCloudCloud/tree/master/cloud-modules/module-perms",
+  "copy": "ALL",
+  "environment": "ALL",
+  "depends": []
+}

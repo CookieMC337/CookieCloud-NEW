@@ -1,0 +1,7 @@
+name: Cloud-Perms
+author: Lystx
+version: SNAPSHOT-1.0
+main: de.cookiemc.modules.perms.ingame.spigot.BukkitCloudPermsPlugin
+api-version: 1.13
+depend:
+  - CookieCloudCloud-Bridge

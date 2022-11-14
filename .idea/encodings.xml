@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cloud-bridge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-bridge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-connector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-connector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-discordbot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-discordbot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-document-database/database-driver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-document-database/database-driver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-document-database/database-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-document-database/database-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-document-database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-document-database/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-driver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-driver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-launcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-launcher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-hubcommand/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-hubcommand/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-notify/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-notify/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-npc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-npc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-perms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-signs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/module-signs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-node/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-node/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-remote/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-remote/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-script/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-script/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

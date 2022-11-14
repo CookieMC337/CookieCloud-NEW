@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: de.cookiemc.remote.Bootstrap
+Premain-Class: de.cookiemc.remote.Bootstrap
+Launcher-Agent-Class: de.cookiemc.remote.Bootstrap
+

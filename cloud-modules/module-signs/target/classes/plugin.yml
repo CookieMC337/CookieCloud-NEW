@@ -1,0 +1,5 @@
+name: CloudSigns
+version: SNAPSHOT-1.0
+main: de.cookiemc.modules.sign.spigot.BukkitBootstrap
+depends:
+  - CookieCloudCloud-Bridge

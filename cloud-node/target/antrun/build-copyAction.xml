@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="copyAction">
+  <target name="copyAction">
+    <copy file="D:\Projekte\CookieCloud\cloud-node/../cloud-remote/target/remote.jar" tofile="D:\Projekte\CookieCloud\cloud-node/src/main/resources/impl/remote.jar" />
+  </target>
+</project>

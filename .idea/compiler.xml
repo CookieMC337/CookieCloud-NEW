@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-script" />
+        <module name="module-notify" />
+        <module name="database-server" />
+        <module name="cloud-node" />
+        <module name="cloud-bridge" />
+        <module name="database-driver" />
+        <module name="module-proxy" />
+        <module name="module-npc" />
+        <module name="cloud-connector" />
+        <module name="module-rest" />
+        <module name="cloud-launcher" />
+        <module name="cloud-driver" />
+        <module name="cloud-remote" />
+        <module name="module-hubcommand" />
+        <module name="cloud-discordbot" />
+        <module name="cloud-commons" />
+        <module name="module-signs" />
+        <module name="module-perms" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

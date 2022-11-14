@@ -1,0 +1,82 @@
+package de.cookiemc.driver.services.utils;
+
+import de.cookiemc.common.logging.LogLevel;
+import de.cookiemc.document.DocumentFactory;
+import de.cookiemc.driver.CloudDriver;
+import de.cookiemc.http.ProtocolAddress;
+import de.cookiemc.driver.services.utils.version.VersionType;
+import de.cookiemc.driver.uuid.PlayerLoginProcessing;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+import java.io.File;
+import java.io.IOException;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Getter
+public class RemoteIdentity {
+
+    /**
+     * The node auth key
+     */
+    private String authKey;
+
+    /**
+     * The name of the node this service runs on
+     */
+    private String node;
+
+    /**
+     * The version type
+     */
+    private VersionType versionType;
+
+    /**
+     * The processing of the service
+     */
+    private ServiceProcessType processType = ServiceProcessType.WRAPPER;
+
+    /**
+     * The logLevel of the cloud
+     */
+    private LogLevel logLevel = LogLevel.INFO;
+
+    /**
+     * the processing of players
+     */
+    private PlayerLoginProcessing playerLoginProcessing = PlayerLoginProcessing.UUID_CACHE;
+
+    /**
+     * The host name of the node this service runs on
+     */
+    private String hostname;
+
+    /**
+     * The name of this service to identify itself
+     */
+    private String name;
+
+    /**
+     * The port this service runs on
+     */
+    private int port;
+
+    public void save(File file) {
+        try {
+            DocumentFactory.newJsonDocument(this).saveToFile(file);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+    public static RemoteIdentity forApplication(ProtocolAddress address) {
+        return new RemoteIdentity(address.getAuthKey(), "", VersionType.BUNGEE, ServiceProcessType.WRAPPER, LogLevel.INFO, PlayerLoginProcessing.WAIT_FOR_UUID, address.getHost(), CloudDriver.APPLICATION_NAME, address.getPort());
+    }
+
+    public static RemoteIdentity read(File file) {
+        return DocumentFactory.newJsonDocumentUnchecked(file).toInstance(RemoteIdentity.class);
+    }
+}

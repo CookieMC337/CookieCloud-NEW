@@ -1,0 +1,6 @@
+name: Cloud-Perms
+author: Lystx
+version: SNAPSHOT-1.0
+main: de.cookiemc.modules.perms.ingame.bungee.BungeeCloudPermsPlugin
+depend:
+  - CookieCloudCloud-Bridge
