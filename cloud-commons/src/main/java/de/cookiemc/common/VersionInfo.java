@@ -11,9 +11,8 @@ import java.util.Arrays;
 @AllArgsConstructor
 public class VersionInfo {
 
-    // TODO: 07.08.2022 important
     public static VersionInfo getCurrentVersion() {
-        return new VersionInfo(Type.SNAPSHOT, 1.5);
+        return new VersionInfo(Type.SNAPSHOT, 1.0);
     }
 
     private final Type type;

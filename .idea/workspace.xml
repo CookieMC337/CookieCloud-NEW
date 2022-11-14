@@ -7,143 +7,14 @@
     <list default="true" id="63dc1d41-cdf4-4101-80c8-0ae4ec6f0b68" name="Changes" comment="updated github urls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/application.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/IBridgePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/IBridgePlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/bukkit/CloudBridgeBukkitPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/bukkit/CloudBridgeBukkitPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/bukkit/listener/BukkitPlayerCommandListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/bukkit/listener/BukkitPlayerCommandListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/proxy/bungee/CloudBridgeBungeePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/proxy/bungee/CloudBridgeBungeePlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/proxy/bungee/listener/BungeeProxyPlayerCommandListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/src/main/java/de/cookiemc/bridge/proxy/bungee/listener/BungeeProxyPlayerCommandListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/classes/bungee.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/target/classes/bungee.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-bridge/target/classes/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/cloud-bridge-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/original-plugin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-bridge/target/plugin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/IdentifiableClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/IdentifiableClassLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/VersionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/VersionInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Quadro.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Quadro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Triple.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Triple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/ValueHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/ValueHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Wrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/collection/pair/Wrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/task/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/common/task/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/http/HttpAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/http/HttpAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/http/ProtocolAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/src/main/java/de/cookiemc/http/ProtocolAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-commons/target/classes/de/cookiemc/common/VersionInfo$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/target/classes/de/cookiemc/common/VersionInfo$Type.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-commons/target/classes/de/cookiemc/common/VersionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-commons/target/classes/de/cookiemc/common/VersionInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-commons/target/cloud-commons-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/src/main/java/de/cookiemc/application/bootstrap/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/src/main/java/de/cookiemc/application/bootstrap/Bootstrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/src/main/java/de/cookiemc/application/gui/panels/StartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/src/main/java/de/cookiemc/application/gui/panels/StartPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/src/test/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/target/classes/de/cookiemc/application/gui/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/target/classes/de/cookiemc/application/gui/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/target/classes/de/cookiemc/application/gui/FramedFooter.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/target/classes/de/cookiemc/application/gui/FramedFooter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/target/classes/de/cookiemc/application/gui/panels/StartPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/target/classes/de/cookiemc/application/gui/panels/StartPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/target/cloud-connector-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-connector/target/test-classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-connector/target/test-classes/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/api/wrapped/Discord.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/api/wrapped/Discord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/api/wrapped/DiscordServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/api/wrapped/DiscordServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/bot/CookieCloudDiscordBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-discordbot/src/main/java/de/cookiemc/discordbot/bot/CookieCloudDiscordBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-document-database/database-driver/target/database-driver-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-document-database/database-server/src/main/java/de/cookiemc/database/DocumentDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-document-database/database-server/src/main/java/de/cookiemc/database/DocumentDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-document-database/database-server/target/classes/de/cookiemc/database/DocumentDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-document-database/database-server/target/classes/de/cookiemc/database/DocumentDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-document-database/database-server/target/database-server-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/CloudDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/CloudDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/DriverEnvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/DriverEnvironment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/common/ICopyableObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/common/ICopyableObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/common/IPlaceHolderObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/common/IPlaceHolderObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceClusterConnectEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceClusterConnectEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceReadyEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceReadyEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceRegisterEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceRegisterEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceUnregisterEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceUnregisterEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceUpdateEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/event/defaults/server/ServiceUpdateEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/networking/protocol/codec/buf/IBufferObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/networking/protocol/codec/buf/IBufferObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/INode.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/INode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/config/INodeConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/config/INodeConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/config/JavaVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/config/JavaVersion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/data/INodeCycleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/node/data/INodeCycleData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/Permission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/PermissionEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/PermissionEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/PermissionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/PermissionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/PermissionPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/permission/PermissionPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/property/IPropertyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/property/IPropertyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/ICloudServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/ICloudServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/ICloudServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/ICloudServiceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/IFutureCloudServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/IFutureCloudServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/IServiceCycleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/IServiceCycleData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/deployment/IDeployment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/deployment/IDeployment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/fallback/ICloudFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/fallback/ICloudFallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/packet/ServiceForceShutdownPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/packet/ServiceForceShutdownPacket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/packet/ServiceRequestShutdownPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/packet/ServiceRequestShutdownPacket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/task/ICloudServiceTaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/task/ICloudServiceTaskManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/task/IServiceTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/task/IServiceTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/task/bundle/ITaskGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/task/bundle/ITaskGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/template/ITemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/template/ITemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/template/ITemplateStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/template/ITemplateStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/utils/ServiceVisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/utils/ServiceVisibility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/utils/version/impl/BungeeConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/services/utils/version/impl/BungeeConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/sync/ISyncedNetworkPromise.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/src/main/java/de/cookiemc/driver/sync/ISyncedNetworkPromise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/target/classes/de/cookiemc/driver/services/utils/version/impl/BungeeConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-driver/target/classes/de/cookiemc/driver/services/utils/version/impl/BungeeConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/target/cloud-driver-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/target/driver.jar.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-driver/target/original-driver.jar.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/src/main/resources/launcher.cloud" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-launcher/src/main/resources/launcher.cloud" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/target/classes/de/cookiemc/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-launcher/target/classes/de/cookiemc/Launcher.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-launcher/target/classes/launcher.cloud" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-launcher/target/classes/launcher.cloud" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/target/cloud-launcher-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/target/launcher.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-launcher/target/original-launcher.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-hubcommand/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-hubcommand/src/main/resources/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-hubcommand/target/classes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-hubcommand/target/classes/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-hubcommand/target/module-hubcommand-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-notify/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-notify/src/main/resources/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-notify/target/classes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-notify/target/classes/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-notify/target/module-notify-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-npc/target/module-npc-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/bungee.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/bungee.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-perms/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/target/classes/bungee.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-perms/target/classes/bungee.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/target/classes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-perms/target/classes/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-perms/target/classes/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-perms/target/module-perms-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-proxy/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/src/main/java/de/cookiemc/modules/proxy/config/ProxyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-proxy/src/main/java/de/cookiemc/modules/proxy/config/ProxyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-proxy/src/main/resources/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/target/classes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-proxy/target/classes/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/target/classes/de/cookiemc/modules/proxy/config/ProxyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-proxy/target/classes/de/cookiemc/modules/proxy/config/ProxyConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/target/module-proxy-SNAPSHOT-1.2-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/target/module-proxy-SNAPSHOT-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-proxy/target/original-module-proxy-SNAPSHOT-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-rest/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-rest/src/main/resources/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-rest/target/classes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-rest/target/classes/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-rest/target/module-rest-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-signs/src/main/resources/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-signs/src/main/resources/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-signs/target/classes/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-signs/target/classes/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-signs/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-modules/module-signs/target/classes/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-modules/module-signs/target/module-signs-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/NodeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/java/de/cookiemc/node/NodeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/CookieCloudCloud-SNAPSHOT-1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/NodeDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/NodeDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeDependencyCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeDependencyCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeRepositoryCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/bootstrap/script/IncludeRepositoryCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/cache/NodeSyncedNetworkPromise.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/cache/NodeSyncedNetworkPromise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/NodeScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/NodeScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/jline3/JLine3Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/console/jline3/JLine3Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/database/DefaultDatabaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/database/DefaultDatabaseManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/module/DefaultModuleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/module/DefaultModuleController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/BaseNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/BaseNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeBasedClusterExecutor$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeBasedClusterExecutor$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeNodeManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/node/NodeNodeManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/player/NodePlayerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/player/NodePlayerManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceTaskManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/NodeServiceTaskManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/template/LocalTemplateStorage.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/de/cookiemc/node/service/template/LocalTemplateStorage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/cloud-node-SNAPSHOT-1.5-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-node/target/original-CookieCloudCloud-SNAPSHOT-1.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-remote/src/main/java/de/cookiemc/remote/Remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-remote/src/main/java/de/cookiemc/remote/Remote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-remote/src/main/java/de/cookiemc/remote/adapter/IBridgeExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-remote/src/main/java/de/cookiemc/remote/adapter/IBridgeExtension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-remote/src/main/java/de/cookiemc/remote/adapter/IBridgeProxyExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-remote/src/main/java/de/cookiemc/remote/adapter/IBridgeProxyExtension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-remote/target/cloud-remote-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-remote/target/original-remote.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-remote/target/remote.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-script/target/cloud-script-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/plugin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/plugin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/remote.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/src/main/resources/impl/remote.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/impl/plugin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/impl/plugin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-node/target/classes/impl/remote.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-node/target/classes/impl/remote.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668443462392</updated>
       <workItem from="1668443464563" duration="9445000" />
-      <workItem from="1668456226799" duration="4821000" />
+      <workItem from="1668456226799" duration="5326000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1668459312738</created>
@@ -269,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668460140185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated github urls">
+      <created>1668461745221</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668461745221</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
