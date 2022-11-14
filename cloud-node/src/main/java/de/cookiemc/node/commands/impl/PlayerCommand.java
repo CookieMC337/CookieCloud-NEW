@@ -93,7 +93,6 @@ public class PlayerCommand {
             ICloudPlayer onlinePlayer = player.asOnlinePlayer();
             ctx.sendMessage("§bProxy: §7" + onlinePlayer.getProxyServer());
             ctx.sendMessage("§bServer: §7" + onlinePlayer.getServer());
-
         }
         ctx.sendMessage("§8");
     }

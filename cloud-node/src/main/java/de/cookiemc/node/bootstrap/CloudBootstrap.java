@@ -66,7 +66,7 @@ public class CloudBootstrap {
         }
 
 
-        IScript script = loader.loadScript(Paths.get("node.hc"));
+        IScript script = loader.loadScript(launcherFile);
         if (script == null) {
             System.out.println("Couldn't load script!");
             return;

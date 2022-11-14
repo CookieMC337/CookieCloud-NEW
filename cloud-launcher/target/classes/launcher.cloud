@@ -4,7 +4,7 @@ This is the CookieCloudCloud launcher config.
 Use '#' to make a comment
 */
 
-#if enabled "Lystx" has all permisisons
+#if enabled "CookieMC337" has all permisisons
 var de.cookiemc.launcher.devmode = false
 
 var de.cookiemc.launcher.autoupdater = true

@@ -36,7 +36,7 @@ public class MemeCommand {
         try {
 
             StringCreator stringCreator = new StringCreator();
-            BufferedReader bufferedReader = new BufferedReader(new URLReader(new URL("http://meme-api.herokuapp.com/gimme/" + subReddit)));
+            BufferedReader bufferedReader = new BufferedReader(new URLReader(new URL("https://meme-api.herokuapp.com/gimme/" + subReddit)));
             String line;
             while ((line = bufferedReader.readLine()) != null) {
                 stringCreator.append(line);

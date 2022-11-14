@@ -54,7 +54,7 @@ public class JLine3Console implements Console, Consumer<String> {
     private String screenName = "Console";
 
     public JLine3Console(String promptTemplate) throws Exception {
-        System.setProperty("library.jansi.version", "CookieCloudCloud");
+        System.setProperty("library.jansi.version", "CookieCloud");
         this.promptTemplate = promptTemplate;
         this.prompt = promptTemplate;
 
@@ -239,16 +239,16 @@ public class JLine3Console implements Console, Consumer<String> {
 
         Logger logger = Logger.constantInstance();
 
-        logger.info("CookieCloudCloud in its current State of Development is presented to you by Lystx and Contributors...");
-
-        logger.log(LogLevel.NULL, "§b                       _                    §f___ _                 _ ");
-        logger.log(LogLevel.NULL, "§b           /\\  /\\_   _| |_ ___  _ __ __ _  §f/ __\\ | ___  _   _  __| |");
-        logger.log(LogLevel.NULL, "§b          / /_/ / | | | __/ _ \\| '__/ _` |§f/ /  | |/ _ \\| | | |/ _` |");
-        logger.log(LogLevel.NULL, "§b         / __  /| |_| | || (_) | | | (_| §f/ /___| | (_) | |_| | (_| |");
-        logger.log(LogLevel.NULL, "§b         \\/ /_/  \\__, |\\__\\___/|_|  §f\\__,_\\____/|_|\\___/ \\__,_|\\__,_|");
-        logger.log(LogLevel.NULL, "§b                 |___/                  §f                            ");
-        logger.log(LogLevel.NULL, "            §8x §eSmurf V1 §8- §fWhere opportunity connects §8x");
+        logger.info("CookieCloud in its current State of Development is presented to you by CookieMC337");
+        logger.log(LogLevel.NULL, "§b _____             _    _      _____ _                 _ ");
+        logger.log(LogLevel.NULL, "§b/  __ \\           | |  (_)    /  __ \\ |               | |");
+        logger.log(LogLevel.NULL, "§b| /  \\/ ___   ___ | | ___  ___| /  \\/ | ___  _   _  __| |");
+        logger.log(LogLevel.NULL, "§b| |    / _ \\ / _ \\| |/ / |/ _ \\ |   | |/ _ \\| | | |/ _` |");
+        logger.log(LogLevel.NULL, "§b| \\__/\\ (_) | (_) |   <| |  __/ \\__/\\ | (_) | |_| | (_| |");
+        logger.log(LogLevel.NULL, "§b \\____/\\___/ \\___/|_|\\_\\_|\\___|\\____/_|\\___/ \\__,_|\\__,_|");
         logger.log(LogLevel.NULL, " ");
+        logger.log(LogLevel.NULL, " ");
+        logger.log(LogLevel.NULL, "           §bThis is a §e§lBETA §bVersion of CookieCloud");
         logger.log(LogLevel.NULL, "           §8=>    §fCloud Version " + VersionInfo.getCurrentVersion());
         logger.log(LogLevel.NULL, "           §8=>    §fJava Version " + System.getProperty("java.version"));
         logger.log(LogLevel.NULL, "           §8=>    §fDiscord " + "https://discord.com/invite/WRYH33X7Fu");
@@ -264,13 +264,10 @@ public class JLine3Console implements Console, Consumer<String> {
     }
 
     private void print(@Nonnull String text) {
-        // print out the raw given line
         this.lineReader.getTerminal().puts(InfoCmp.Capability.carriage_return);
         this.lineReader.getTerminal().puts(InfoCmp.Capability.clr_eol);
         this.lineReader.getTerminal().writer().print(text);
         this.lineReader.getTerminal().writer().flush();
-
-        // re-displays the prompt to ensure everything is lined up
         this.redisplay();
     }
 

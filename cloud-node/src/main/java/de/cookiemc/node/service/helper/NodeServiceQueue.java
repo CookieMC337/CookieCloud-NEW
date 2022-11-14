@@ -37,7 +37,6 @@ public class NodeServiceQueue {
     }
 
     public void dequeue() {
-        // TODO: 30.08.2022 make all methods for remote-node that sends method execution to head node
         if (!NodeDriver.getInstance().isRunning()) {
             return;
         }

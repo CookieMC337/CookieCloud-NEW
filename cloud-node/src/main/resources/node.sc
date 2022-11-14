@@ -1,6 +1,6 @@
 
 
-#if enabled "Lystx" has all permisisons
+#if enabled "CookieMC337" has all permisisons
 var de.cookiemc.launcher.devmode = false
 
 if ($de.cookiemc.launcher.devmode$) -> {

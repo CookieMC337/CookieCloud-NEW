@@ -456,8 +456,8 @@ public class NodeDriver extends CloudDriver<INode> {
                 this.logger.info("§8");
                 this.logger.info("§8");
                 this.logger.info("§8");
-                this.logger.info("This Node has successfully booted up and is now ready for personal use!");
-                this.logger.info("=> Thanks for using CookieCloudCloud [Version: " + VersionInfo.getCurrentVersion() + "]");
+                this.logger.info("This Node has successfully booted up and is now ready for use!");
+                this.logger.info("=> Thanks for using CookieCloud [Version: " + VersionInfo.getCurrentVersion() + "]");
                 this.logger.info("§8");
                 this.logger.info("§8");
                 this.logger.info("§8");
@@ -710,7 +710,7 @@ public class NodeDriver extends CloudDriver<INode> {
 
                 //check if uuid or name provided
                 if (Validation.UNIQUEID.matches(queryParameters)) {
-                    UUID uniqueId = UUID.fromString(queryParameters); // TODO: 06.09.2022
+                    UUID uniqueId = UUID.fromString(queryParameters);
                     promise.setObject((E) sm.getService(queryParameters));
                 } else {
                     promise.setObject((E) sm.getService(queryParameters));
@@ -749,7 +749,6 @@ public class NodeDriver extends CloudDriver<INode> {
 
         INodeManager nodeManager = providerRegistry.getUnchecked(INodeManager.class);
 
-        // TODO: 03.05.2022  migrating of head node
         if (nodeManager.isHeadNode() && nodeManager.getAllCachedNodes().size() > 1) {
             this.logger.warn("§eThis Node is the §cHeadNode §eright now and it's not possible for HeadNodes to shutdown because the migration of SubNodes to HeadNodes is not finished yet!");
             this.logger.warn("Make sure to shutdown every other Node first and then shutdown this Node!");
@@ -803,7 +802,7 @@ public class NodeDriver extends CloudDriver<INode> {
     public String getBaseUrl() {
         VersionInfo newestVersion = VersionInfo.getNewestVersion();
 
-        String urlString = "https://github.com/Lystx/CookieCloudCloud/releases/download/v{version}";
+        String urlString = "https://github.com/CookieMC337/CookieCloud/releases/download/v{version}";
         urlString = urlString.replace("{version}", String.valueOf(newestVersion.getVersion()));
         urlString = urlString.replace("{type}", String.valueOf(newestVersion.getType()));
 

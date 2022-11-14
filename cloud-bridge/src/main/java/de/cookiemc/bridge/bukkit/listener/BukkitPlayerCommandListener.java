@@ -32,7 +32,7 @@ public class BukkitPlayerCommandListener implements Listener {
     public void handleChat(AsyncPlayerChatEvent event) {
 
         Player player = event.getPlayer();
-        if (event.getMessage().equalsIgnoreCase("#CookieCloudCloud") || event.getMessage().equalsIgnoreCase("#HC")) {
+        if (event.getMessage().equalsIgnoreCase("/CookieCloud") || event.getMessage().equalsIgnoreCase("/cloud")) {
 
             CloudDriver
                     .getInstance()
@@ -41,7 +41,7 @@ public class BukkitPlayerCommandListener implements Listener {
 
                         ICloudPlayer cloudPlayer = promise.getSyncedObjectOrNull();
                         player.sendMessage("§8§m-----------------------------");
-                        player.sendMessage("§8» §7CookieCloudCloud by §bLystx §8[§e" + VersionInfo.getCurrentVersion().toString() + "§8]");
+                        player.sendMessage("§8» §7CookieCloud by §CookieMC337 §8[§e" + VersionInfo.getCurrentVersion().toString() + "§8]");
                         player.sendMessage("§8");
                         player.sendMessage("   §8» §7Proxy §8┃ §b" + cloudPlayer.getProxyServer().getName());
                         player.sendMessage("   §8» §7Server §8┃ §b" + cloudPlayer.getServer().getName());

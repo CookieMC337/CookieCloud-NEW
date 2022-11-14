@@ -30,6 +30,13 @@
             <artifactId>JDA</artifactId>
             <version>5.0.0-alpha.22</version>
         </dependency>
+        <dependency>
+            <groupId>com.xenoamess</groupId>
+            <artifactId>nashorn</artifactId>
+            <version>jdk8u265-b01-x2</version>
+        </dependency>
+        <!-- Thanks for using https://jar-download.com -->
+
     </dependencies>
 
 

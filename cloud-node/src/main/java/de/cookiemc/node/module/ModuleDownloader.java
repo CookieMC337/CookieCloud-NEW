@@ -31,7 +31,7 @@ import java.util.jar.JarFile;
 
 public class ModuleDownloader {
 
-    private final String applicationFileURL = "https://raw.githubusercontent.com/Lystx/CookieCloudCloud/master/application.json";
+    private final String applicationFileURL = "https://raw.githubusercontent.com/CookieMC337/CookieCloud/master/application.json";
     private Collection<ModuleInfo> cachedModules;
 
 

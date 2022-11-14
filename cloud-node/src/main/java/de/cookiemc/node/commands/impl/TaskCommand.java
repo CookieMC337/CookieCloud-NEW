@@ -153,7 +153,7 @@ public class TaskCommand {
                 serviceTask.setMaintenance(maintenance);
                 serviceTask.setPermission(null);
                 serviceTask.setJavaVersion(javaVersion);
-                serviceTask.setMotd("Default CookieCloudCloud Service.");
+                serviceTask.setMotd("Default CookieCloud Service.");
 
                 if (serviceTask.getTaskGroup().getEnvironment() == SpecificDriverEnvironment.PROXY) {
                     serviceTask.setProperty("onlineMode", true);
